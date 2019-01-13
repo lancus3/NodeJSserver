@@ -1,0 +1,61 @@
+body {
+	margin: 0;
+	color: #333536;
+	font-family: 'Rubik', sans-serif;
+}
+.container {
+	margin: 0 auto;
+	max-width: 700px;
+	color: #333;
+}
+
+header {
+	padding: 30px;
+	background-image: url(https://images.pexels.com/photos/662337/pexels-photo-662337.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	
+}
+header h1 { 
+		text-transform: uppercase;	
+		font-weight: bold;	
+		font-size:48px;
+}
+header h1, header p {
+	text-align: center;
+	color: #ff7675;
+}
+
+section {
+	padding: 0 20%;
+}
+.about h2 {
+	color: #636e72;
+	margin-top: 60px;
+	font-size: 28px;
+	
+}
+.interests h2 {
+	color: #2d3436;
+	margin-top: 40px;
+}
+
+footer {
+		margin-top: 60px;
+		padding: 30px;
+		background-color: #dfe6e9;
+}
+footer p{
+	text-align: center;
+	color: white;
+}
+footer a {
+	text-decoration: none;
+	color: #ff7675;
+	font-weight: bold;
+}
+h1, h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+	
